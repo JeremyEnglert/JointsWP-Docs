@@ -17,7 +17,7 @@ mashsb_jsonshares:
 dsq_thread_id:
   - 'a:1:{i:0;s:10:"3849388549";}'
 ---
-I highly recommend making a full backup of your website before updating the Foundation version. While updating Foundation is pretty straight forward, it's better to be safe than sorry.
+I highly recommend making a full [backup](https://hosting.review/web-hosting-glossary/#14) of your website before updating the Foundation version. While updating Foundation is pretty straight forward, it's better to be safe than sorry.
 <h3>Updating Foundation - CSS Version</h3>
 <ul>
 	<li>Download and unzip the <a href="http://foundation.zurb.com/sites/download/" target="_blank">newest version of Foundation</a>.</li>
